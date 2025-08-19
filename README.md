@@ -1,14 +1,12 @@
-# phys325_fa24_scientific_computing
-
  <!-- # %load Lectures_Fa23.md -->
 
 # Physics 325 Scientific Computing (Syllabus)
 
 Instructor: Matt Ferguson (mattferguson@boisestate.edu)
 
-Lectures: Tuesdays & Thursdays 10:30 am - 11:45 am Multipurpose Classroom Building (MP) 207
+Lectures: Tuesdays & Thursdays 9:00 am - 10:15 am, Riverfront Hall (RFH) 208
         
-Labs: Fridays 12:00 pm - 2:45 pm, MP 301
+Labs: Fridays 12:00 pm - 2:45 pm, Riverfront Hall (RFH) 208
 
 Homework deadlines: Fridays 11:59 pm (Canvas)
 
