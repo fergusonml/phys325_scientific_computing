@@ -4,9 +4,9 @@
 
 Instructor: Matt Ferguson (mattferguson@boisestate.edu)
 
-Lectures: Tuesdays & Thursdays 9:00 am - 10:15 am, Riverfront Hall (RFH) 208
+Lectures: Tuesdays & Thursdays 9:00 am - 10:15 am, Multipurpose Classroom Building 101
         
-Labs: Fridays 12:00 pm - 2:45 pm, Riverfront Hall (RFH) 208
+Labs: Fridays 12:00 pm - 2:45 pm, Multipurpose Classroom Building 208
 
 Homework deadlines: Fridays 11:59 pm (Canvas)
 
